@@ -2,7 +2,6 @@
 
 <ul>
   <h4>Options in the phone book:</h4>
-  <il></li>
   <il>1. Print the whole book</li>
   <il>2. Add a name+phone number</li>
   <il>3. Get a phone number by name</li>
