@@ -2,10 +2,10 @@
 
 <ul>
   <h4>Options in the phone book:</h4>
-  <il>1. Print the whole book</li>
-  <il>2. Add a name+phone number</li>
-  <il>3. Get a phone number by name</li>
-  <il>4. Get a name by a full/part of a phone number</li>
+  <li>1. Print the whole book</li>
+  <li>2. Add a name+phone number</li>
+  <li>3. Get a phone number by name</li>
+  <li>4. Get a name by a full/part of a phone number</li>
 </ul>
 
 <h4>Example for the outputs:</h4>
