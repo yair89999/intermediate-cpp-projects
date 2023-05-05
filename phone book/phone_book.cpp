@@ -265,4 +265,11 @@ int main(){
         cin >> numberPart;
         printByNumber(numberPart);
     }
+
+    char answer;
+    cout << "Would you like to use the phone book actions again(y/n)? ";
+    cin >> answer;
+    if (answer == 'y'){
+        main();
+    }
 }
